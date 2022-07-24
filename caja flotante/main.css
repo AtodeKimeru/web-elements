@@ -1,0 +1,45 @@
+body {
+    background-color: #fee;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section {
+    background-color: rgb(104, 136, 226);
+    margin: 8px;
+    padding: 0px;
+    border: 2px solid gray;
+    border-top: none;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    height: auto;
+    width: auto;
+    color: darkblue
+}
+header {
+    margin: 8px;
+    padding: 8px;
+}
+article {
+    margin: 8px;
+    padding: 8px;
+}
+footer{
+    margin: 4px;
+    padding: 4px;
+    color: antiquewhite;
+}
+hr {
+    border-color: darkgray;
+}
+#aceptar {
+    background-color: rgb(134, 177, 49);
+    margin: 2px;
+    padding: 2px;
+}
+#cancelar {
+    background-color: rgb(130, 189, 130);
+    margin: 2px;
+    padding: 2px;
+}

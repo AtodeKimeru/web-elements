@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(186, 255, 121);
+}
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 174, 103);
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#contacto {
+    background-color: rgb(255, 239, 92);
+}
